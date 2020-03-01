@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ad8b020-80df-4ed9-9b5b-d9f6ebd1978c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xq8nKodpwPb1U9hAmDbr1IkE4V" />
+  <component name="PropertiesComponent">
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestDomowy/src" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="weekend3_PorzadkowanieHashMapyiLambda" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Zad4_Czwarte">
+    <configuration name="Zad1_Pierwsze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekend3_Optionale.Zad1_Pierwsze" />
+      <module name="ZajeciaTomaszWiwala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekend3_Optionale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad2_Drugie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekend3_Optionale.Zad2_Drugie" />
+      <module name="ZajeciaTomaszWiwala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekend3_Optionale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad2_Zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekend3_Strumienie.Zad2_Zadania" />
+      <module name="ZajeciaTomaszWiwala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekend3_Strumienie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad3_LosoweLiczby" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekend3_Strumienie.Zad3_LosoweLiczby" />
+      <module name="ZajeciaTomaszWiwala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekend3_Strumienie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad4_Czwarte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekend3_Strumienie.Zad4_Czwarte" />
+      <module name="ZajeciaTomaszWiwala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekend3_Strumienie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zad4_Czwarte" />
+        <item itemvalue="Application.Zad2_Drugie" />
+        <item itemvalue="Application.Zad1_Pierwsze" />
+        <item itemvalue="Application.Zad3_LosoweLiczby" />
+        <item itemvalue="Application.Zad2_Zadania" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\dagma\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ad8b020-80df-4ed9-9b5b-d9f6ebd1978c" name="Default Changelist" comment="" />
+      <created>1581762429911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581762429911</updated>
+    </task>
+    <servers />
+  </component>
+</project>
