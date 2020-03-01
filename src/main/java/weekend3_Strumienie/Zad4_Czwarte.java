@@ -16,8 +16,7 @@ import java.util.stream.Collectors;
 final class Zad4_Czwarte {
     public static void main(String[] args) {
         List<Double> liczby = List.of(2.0,3.0,5.0,6.0,7.0,3.0);
-        System.out.println(doKwadratu(liczby
-        ;));
+        System.out.println(doKwadratu(liczby));
     }
     public static List<Double> doKwadratu(List<Double> liczby){
         return liczby.stream()
